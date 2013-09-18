@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Factorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">This apps finds the Factorial of nth Number</string>
+    <string name="factButton">Calculate</string>
+
+</resources>
